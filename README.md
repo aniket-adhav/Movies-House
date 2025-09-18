@@ -1,19 +1,19 @@
 
 
-# TMDB Movie App with Jetpack Compose & TMDB API 🎬🎥
+# Movies House App with Jetpack Compose & TMDB API 🎬🎥
 
-Welcome to the **TMDB Movie App**! This app showcases movies from the [TMDB API](https://www.themoviedb.org/documentation/api) while leveraging the power of modern Android development with **Jetpack Compose** and other cutting-edge libraries. 🚀
+Welcome to the **Movies House App**! This app showcases movies from the [TMDB API](https://www.themoviedb.org/documentation/api) while leveraging the power of modern Android development with **Jetpack Compose** and other cutting-edge libraries. 🚀
 
 
 
 ## Screenshots 📸
 | Home Screen            | Genres List            | Now Playing Movies     |
 |------------------------|------------------------|------------------------|
-| ![Screenshot 1](1.jpg) | ![Screenshot 2](2.jpg) | ![Screenshot 3](6.jpg) |
+| ![Screenshot 1](1.jpg) | ![Screenshot 2](2.jpg) | ![Screenshot 3](3.jpg) |
 
 | Movie Details          | Search Movies          | Wishlist               |
 |------------------------|------------------------|------------------------|
-| ![Screenshot 4](3.jpg) | ![Screenshot 5](5.jpg) | ![Screenshot 6](4.jpg) |
+| ![Screenshot 4](4.jpg) | ![Screenshot 5](5.jpg) | ![Screenshot 6](6.jpg) |
 
 ### 💡 **Technologies Used:**
 - ⚛️ **Jetpack Compose** – Modern UI Toolkit
@@ -47,7 +47,7 @@ Welcome to the **TMDB Movie App**! This app showcases movies from the [TMDB API]
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dinesh2510/TMDB-Movie-App-Jetpack-Compose.git
+   git clone https://github.com/aniket-adhav/Movies-House.git
    ```
 2. Open the project in Android Studio.
 3. Add your **TMDB API Key** in the `local.properties` file:
@@ -59,16 +59,11 @@ Welcome to the **TMDB Movie App**! This app showcases movies from the [TMDB API]
 ## Contributing 🤝
 Feel free to submit pull requests or open issues to improve the app. Contributions are always welcome!
 
-## License 📜
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
-Thanks for checking out the **TMDB Movie App**! Don't forget to ⭐ the repository if you find it helpful. 😊
+Thanks for checking out the **Movies House App**! Don't forget to ⭐ the repository if you find it helpful. 😊
 
 ---
-
-Made with ❤️ by [Dinesh Chavan](https://github.com/Dinesh2510)
 
 ---
 
